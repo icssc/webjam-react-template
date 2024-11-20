@@ -18,4 +18,4 @@ This template uses several technologies that you can consider incorporating into
 
 **Vite** is a bundler. It functions similarly to a compiler in that it takes in source files and outputs files that can then be used to display a page by your browser. It also enables fast local development.
 
-**Biome** is a tool for fixing issues in and reformatting your TypeScript/React code.
+**Biome** is a tool for reformatting and fixing issues in your TypeScript/React code.
